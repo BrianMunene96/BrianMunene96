@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianMunene96
+- 👋 Hi, I’m Brian Munene
 - 👀 I’m interested in Full Stack Software Development
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on web and software development
