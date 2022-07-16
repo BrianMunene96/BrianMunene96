@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on web and software development
 - 📫 How to reach me Instagram (@brajah_munene)
+> I did not come this far just to come this far!
 
 <!---
 BrianMunene96/BrianMunene96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
